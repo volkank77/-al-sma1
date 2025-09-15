@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>DENEME</title>
+<title>DENEME</title>
 </head>
 <body>
     <h1>DENEME1</h1>
